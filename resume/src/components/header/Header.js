@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
+
 import './Header.css';
+
+// Imports
 
 import TopHeader from './TopHeader';
 import BottomHeader from './BottomHeader';
