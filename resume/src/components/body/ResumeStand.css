@@ -1,0 +1,22 @@
+.expDiv {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.compDiv {
+  padding-top: 20px;
+  display: inline-block;
+}
+
+.dateDiv {
+  display: block;
+}
+
+.locDiv {
+  font-size: large;
+  font-variant: small-caps;
+}
+
+.roleDiv {
+  font-variant: small-caps;
+}

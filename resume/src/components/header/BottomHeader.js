@@ -5,7 +5,7 @@ class BottomHeader extends Component {
   render() {
     return (
       <div className="bottomHeader">
-        <h2> Who am I? </h2>
+        <h1 className="objDiv"> Objective </h1>
         <p>
           {' '}
           Seeking a position in sales or sales management where my 25+years of
