@@ -31,9 +31,7 @@ class PageNav extends Component {
     return (
       <div>
         <Navbar color="light" light expand="md">
-          <NavbarBrand href="#" className="header">
-            Jon Jolley
-          </NavbarBrand>
+          <NavbarBrand href="#">Jon Jolley</NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>

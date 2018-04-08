@@ -1,6 +1,6 @@
 .topHeader {
   height: 340px;
-  background-color: gray;
+  background-color: lightgray;
   background-size: cover;
   overflow: hidden;
   text-align: center;
@@ -16,5 +16,5 @@
 
 .headerText {
   padding-top: 20px;
-  color: white;
+  color: black;
 }

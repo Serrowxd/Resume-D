@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from '../../../src/media/header-temp.png';
+import logo from '../../../src/media/head.png';
 import './TopHeader.css';
 
 class TopHeader extends Component {
