@@ -1,6 +1,6 @@
 .topHeader {
-  height: 400px;
-  background-color: black;
+  height: 340px;
+  background-color: gray;
   background-size: cover;
   overflow: hidden;
   text-align: center;
@@ -11,7 +11,7 @@
   margin: 0 auto;
   border-radius: 50%;
   border: 3px solid white;
-  margin-top: 80px;
+  margin-top: 60px;
 }
 
 .headerText {

@@ -3,7 +3,19 @@ import './BottomHeader.css';
 
 class BottomHeader extends Component {
   render() {
-    return <div className="bottomHeader" />;
+    return (
+      <div className="bottomHeader">
+        <h2> Who am I? </h2>
+        <p>
+          {' '}
+          Seeking a position in sales or sales management where my 25+years of
+          sales expertise which include owning and operating my own hardwood
+          company and construction company in addition to my experience in
+          contract sales and purchase negotiations will contribute in achieving
+          company goals within the hardwood industry.{' '}
+        </p>
+      </div>
+    );
   }
 }
 
